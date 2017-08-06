@@ -1,6 +1,3 @@
-
-# spring17-lab2
-
 ## How to run
 
 1. Open a terminal where we would run the name server. Since we use custom classes for message passing, the serializer needs to be mentioned to the name server. This can be done by issuing the command  
@@ -29,5 +26,4 @@
 - Some additional assumptions made are [here](docs/Assumption.md)
 
 ### Team
-- Harshal Godhia (hgodhia@cs.umass.edu)
-- Hao Liu (haoliu@cs.umass.edu)
+- Harshal Godhia (harshals@seas.upenn.edu)
